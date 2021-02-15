@@ -1,4 +1,4 @@
-#include "global.h"
+ #include "global.h"
 #include "strings.h"
 
 ALIGNED(4)
@@ -15,7 +15,7 @@ const u8 gText_ExpandedPlaceholder_Maxie[] = _("MAXIE");
 const u8 gText_ExpandedPlaceholder_Kyogre[] = _("KYOGRE");
 const u8 gText_ExpandedPlaceholder_Groudon[] = _("GROUDON");
 const u8 gText_ExpandedPlaceholder_Brendan[] = _("BRENDAN");
-const u8 gText_ExpandedPlaceholder_May[] = _("MAY");
+const u8 gText_ExpandedPlaceholder_May[] = _("REGINEX");
 const u8 gText_EggNickname[] = _("EGG");
 const u8 gText_Pokemon[] = _("POKéMON");
 const u8 gText_ProfBirchMatchCallName[] = _("PROF. BIRCH");

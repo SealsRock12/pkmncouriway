@@ -392,7 +392,7 @@ OldaleTown_Text_FinishedSketchingFootprints: @ 81E93F8
 	.string "own footprints…$"
 
 OldaleTown_Text_MayLetsGoBack: @ 81E9462
-	.string "MAY: {PLAYER}{KUN}!\n"
+	.string "REIGNEX: {PLAYER}{KUN}!\n"
 	.string "Over here!\l"
 	.string "Let's hurry home!$"
 

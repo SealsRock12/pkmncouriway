@@ -36,7 +36,6 @@ gText_Birch_BoyOrGirl:: @ 82C8BDD
 	.string "Or are you a girl?$"
 
 gText_Birch_WhatsYourName:: @ 82C8BFF
-	.string "All right.\n"
 	.string "What's your name?$"
 
 gText_Birch_SoItsPlayer:: @ 82C8C1C

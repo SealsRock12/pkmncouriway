@@ -424,7 +424,7 @@ LilycoveCity_EventScript_DontKnowAboutBerryBlender:: @ 81E3058
 	return
 
 LilycoveCity_Text_MayShoppingLetsBattle: @ 81E3061
-	.string "MAY: Oh, hey?\n"
+	.string "REIGNEX: Oh, hey?\n"
 	.string "{PLAYER}{KUN}, are you shopping, too?\p"
 	.string "I bought a whole bunch of DOLLS and\n"
 	.string "POSTERS.\p"
@@ -437,17 +437,17 @@ LilycoveCity_Text_MayShoppingLetsBattle: @ 81E3061
 	.string "me your POKéMON, {PLAYER}{KUN}.$"
 
 LilycoveCity_Text_MayNotRaisingPokemon: @ 81E318D
-	.string "MAY: Oh, why? {PLAYER}{KUN}, haven't you\n"
+	.string "REIGNEX: Oh, why? {PLAYER}{KUN}, haven't you\n"
 	.string "been raising your POKéMON?\p"
 	.string "That's not a very good showing as a\n"
 	.string "TRAINER…$"
 
 LilycoveCity_Text_MayBattleMe: @ 81E31F5
-	.string "MAY: Come on, battle with me, so I can\n"
+	.string "REIGNEX: Come on, battle with me, so I can\n"
 	.string "check out your POKéMON!$"
 
 LilycoveCity_Text_MayWontBeBeaten: @ 81E3234
-	.string "MAY: The POKéMON I raised won't be\n"
+	.string "REIGNEX: The POKéMON I raised won't be\n"
 	.string "beaten by your POKéMON, {PLAYER}{KUN}!$"
 
 LilycoveCity_Text_MayDefeat: @ 81E3275
@@ -458,7 +458,7 @@ LilycoveCity_Text_MayDefeat: @ 81E3275
 	.string "strong, {PLAYER}{KUN}, didn't it?$"
 
 LilycoveCity_Text_MayGoingBackToLittleroot: @ 81E32FB
-	.string "MAY: I'm thinking of going back to\n"
+	.string "REIGNEX: I'm thinking of going back to\n"
 	.string "LITTLEROOT soon.\p"
 	.string "I've caught a decent group of POKéMON,\n"
 	.string "and my POKéDEX is coming along, so\l"
